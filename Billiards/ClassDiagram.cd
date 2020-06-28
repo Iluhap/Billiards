@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game">
+    <Position X="2.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEEABABgBAAABAACQgIEgAAAAAAcAoBAAQIAI=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAYAAEAIAAAAAAAAAAAAYEBgBABAAAA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAMAYAAAAIIAAAADAAAgAAYAAABAhABMA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhiteBall">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedBall">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Table">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAACAAAAAAAICBAAAAIQIAAAAAAAwAAYABgQEAAAAA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cue">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQEAAAAACAAIAAEAEBAggABABgAAAAAAA=</HashCode>
+      <FileName>Logic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
